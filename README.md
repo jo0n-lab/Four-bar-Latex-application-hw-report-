@@ -1,1 +1,2 @@
-# data_structure_hw1
+# Latex report - Four bar
+from handwriting derivation to simulation program(adams)
